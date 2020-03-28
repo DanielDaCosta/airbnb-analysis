@@ -16,7 +16,7 @@ Data analysis of Airbnb website history for the city of **Rio de Janeiro, Brazil
 
 All the required Python libraries to run the python code are in *requirements.txt* file. Run ``` pip install -r requiremts.txt``` to install all the dependencies.
 
-For the datasets you will have to to unzip both files in the CSV folder: *listing.zip* and *reviews.zip*
+For the datasets you will have to unzip both files in the CSV folder: *listing.zip* and *reviews.zip*
 
 The code should run with no issues using Python versions 3.*
 

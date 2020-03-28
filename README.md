@@ -1,4 +1,4 @@
-# Airbnb Data Analysis
+# Rio de Janeiro Airbnb Data Analysis
 
 Data analysis of Airbnb website history for the city of **Rio de Janeiro, Brazil**. The goal of this project is to explain and to show step by step a data preprocessing procedure with a real world problem.
 

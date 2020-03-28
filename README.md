@@ -22,7 +22,7 @@ The goal of this project was to retrive the maximum amount of information from a
 The project was focused on answering quentions through data. Based on the information presented on each of the datasets, it was possible to better understand:
 
 1. How do prices change based on location (geographical pricing) ?
-2. Does the host response rate affect his review scores rate ?
+2. Does the host response rate affect his scores ?
 3. Airbnb growth through the years in Rio de Janeiro
 4. How do prices change based on the number of accommodates ?
 

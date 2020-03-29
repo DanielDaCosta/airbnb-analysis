@@ -16,7 +16,7 @@ Data analysis of Airbnb website history for the city of **Rio de Janeiro, Brazil
 
 All the required Python libraries to run the python code are in *requirements.txt* file. Run ``` pip install -r requiremts.txt``` to install all the dependencies.
 
-The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*
 
 ## Project Motivation <a name="motivation">
 
@@ -37,7 +37,7 @@ The *CSV folder* contains both of the dataset that were used:
   * Detailed Listings data for Rio de Janeiro
   * Detailed Review Data for listings in Rio de Janeiro
 
-The Images folder has an image of the price vs location study, this image is also shown inside the jupyter notebook.
+The Images folder contains an image of the price vs location study, this image is also shown inside the jupyter notebook.
 
 ## Acknowledgements<a name="acknowledgements"></a>
 

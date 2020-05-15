@@ -1,9 +1,8 @@
-# Medium Post
-https://medium.com/@danieldacosta_75030/rio-de-janeiro-airbnb-data-analysis-b43241102455
-
 # Airbnb Data Analysis
 
 Data analysis of Airbnb website history for the city of **Rio de Janeiro, Brazil**. The goal of this project is to explain and to show step by step a data preprocessing procedure with a real world problem.
+
+You can also check the repo [Medium Post](https://medium.com/@danieldacosta_75030/rio-de-janeiro-airbnb-data-analysis-b43241102455)
 
 ## Table of Contents
 

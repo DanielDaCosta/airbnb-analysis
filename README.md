@@ -38,6 +38,6 @@ The *CSV folder* contains both of the dataset that were used:
 
 The Images folder contains an image of the price vs location study, this image is also shown inside the jupyter notebook.
 
-## Acknowledgements<a name="acknowledgements"></a>
+## Acknowledgements <a name="acknowledgements"></a>
 
 The dataset was downloaded from [indesideairbnb](http://insideairbnb.com/get-the-data.html). The data behind the project is sourced from publicly avaiable information from the Airbnb site.
